@@ -52,7 +52,7 @@ scikit-learn under a permissive open license.
 | Logistic Regression | 0.798 | 77.5% |
 | Gradient Boosting | 0.787 | 73.9% |
 
-Full analysis, figures, and discussion: see `report/Technical_Project_Report.docx`.
+Full analysis, figures, and discussion: see `Technical_Project_Report.docx`.
 
 ## Limitations
 

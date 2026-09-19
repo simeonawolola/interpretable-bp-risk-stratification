@@ -30,6 +30,12 @@ scikit-learn under a permissive open license.
 - `roc_curves.png`, `logreg_coefficients.png`, `gbc_permutation_importance.png`, `partial_dependence.png` — generated figures
 - `Technical_Project_Report.docx` — full technical report with discussion
 
+## Reproduce it
+
+```bash
+pip install scikit-learn pandas matplotlib
+python 01_data_and_model.py
+
 ## Method summary
 
 - **Outcome:** elevated blood pressure, defined as the upper tertile of the

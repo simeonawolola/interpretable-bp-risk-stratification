@@ -26,21 +26,9 @@ scikit-learn under a permissive open license.
 
 ## What's here
 
-```
-code/
-  01_data_and_model.py   # data prep, modeling, interpretability, subgroup eval
-  build_report.js         # generates the technical report (docx)
-figures/                  # all generated charts + summary_stats.json
-report/
-  Technical_Project_Report.docx
-```
-
-## Reproduce it
-
-```bash
-pip install scikit-learn pandas matplotlib
-python code/01_data_and_model.py
-```
+- `01_data_and_model.py` — data prep, modeling, interpretability, and subgroup evaluation
+- `roc_curves.png`, `logreg_coefficients.png`, `gbc_permutation_importance.png`, `partial_dependence.png` — generated figures
+- `Technical_Project_Report.docx` — full technical report with discussion
 
 ## Method summary
 
